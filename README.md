@@ -1,5 +1,7 @@
 # Comparison of K-Nearest Neighbours, Decision Tree and Logistic Regression on Iris Plants Dataset
 Machine Learning and Neural Network course project (July 2024)
+<br>
+<b>Project jupyter notebook: [mlnn.ipynb](mlnn.ipynb)</b>
 
 ## Table of Contents
 - [Introduction](#introduction)

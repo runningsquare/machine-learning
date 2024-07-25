@@ -29,17 +29,35 @@ The following methadologies are used in this project:
 - Model Evaluation Metric: Confusion Matrix, Accuracy, Precision, Recall, F1 score
 
 ## Results
-K-Nearest Neighbours:
-![alt text](image.png)
+<b>K-Nearest Neighbours:</b>
+<br>
+<br>
+<img src="image.png" width="350" height="350" align="left">
 
-Decision Tree:
-![alt text](image-1.png)
+<br clear="left" />
 
-Logistic Regression:
-![alt text](image-2.png)
+<b>Decision Tree:</b>
+<br>
+<br>
+<img src="image-1.png" width="350" height="350" align="left">
 
-Consolidated Results:
-![alt text](image-3.png)
+<br clear="left" />
+
+<b>Logistic Regression:</b>
+<br>
+<br>
+<img src="image-2.png" width="350" height="350" align="left">
+
+<br clear="left" />
+<br>
+
+<b>Consolidated Results:</b>
+<br>
+<br>
+<img src="image-3.png" width="800" height="150" align="left">
+
+<br clear="left" />
+<br>
 
 From the results, K-Nearest Neighbours's evaluation metrics showed a 93.33% accuracy and recall, 94.44% for precision and 93.27% for F1 score, indicating that it did generally well classifying the Iris Plants dataset. Since KNN is a lazy learner, it is easy to understand and implement. However, one weakness is that since it uses distance metric in its algorithm, it may be computationally expensive for larger datasets.
 
